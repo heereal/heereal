@@ -18,11 +18,11 @@
     </div>
    <br> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=heereal&theme=nord&show_icons=true"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=heereal&theme=github_dark_dimmed&show_icons=true"
          /> </div> 
     </div>
     <br/>
-        <div align= "right"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheereal&count_bg=%23728FA6&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+        <div align= "right"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheereal&count_bg=%234E82DB&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
        </div> 
        
     
