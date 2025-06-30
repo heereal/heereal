@@ -1,7 +1,8 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏼 Welcome </h2> 
     <p>안녕하세요, 기술을 통해 사용자에게 가치를 전달하는 프론트엔드 개발자입니다.<br>
-    저의 더 많은 이야기는 포트폴리오에 담겨 있어요. 👉🏼 <a href="https://bento.me/horang" target="_blank">포트폴리오 링크</a></p>
+    저에 대해 더 알고 싶으시다면 포트폴리오를 구경해보세요!<br>
+        👉🏼 <a href="https://slashpage.com/heereal" target="_blank">포트폴리오 보러 가기</a></p>
 </div>
 <br> 
 <div align= "center">
