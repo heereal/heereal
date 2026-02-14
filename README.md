@@ -1,6 +1,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋🏼 Welcome </h2> 
     <p>안녕하세요, 기술을 통해 사용자에게 가치를 전달하는 개발자입니다.<br>
+    <a href="https://litt.ly/heemang_dev" target="_blank">> 사이드 프로젝트 모아보기</a>
 </div>
 <br> 
 <div align= "center">
