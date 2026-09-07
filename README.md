@@ -16,7 +16,7 @@
             <sub>웹소설 신작 캘린더, 할인율 아카이빙 서비스</sub>
           </a><br/><br/>
           <img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" />
-          &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-5.4만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+          &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-6.4만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
         </td>
         <td width="50%" valign="top" min-width="400">
           <a href="https://www.mytop9books.com">
@@ -25,7 +25,7 @@
             <sub>도서 취향 공유 커뮤니티</sub>
           </a><br/><br/>
           <img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" />
-          &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-3.7만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+          &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-5.7만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
         </td>
       </tr>
       <tr>
@@ -37,7 +37,7 @@
           </a><br/><br/>
           <img src="https://img.shields.io/badge/App-34C759?style=flat-square" />&nbsp;
           <a href="https://play.google.com/store/apps/details?id=com.heereal.bracesdiary"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>&nbsp;
-          <img src="https://img.shields.io/badge/누적%20다운로드-470-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+          <img src="https://img.shields.io/badge/누적%20다운로드-496-9e9e9e?style=flat-square&labelColor=9e9e9e" />
         </td>
         <td width="50%" valign="top" min-width="400">
           <a href="https://play.google.com/store/apps/details?id=com.rainypoint.alarm">
@@ -47,7 +47,7 @@
           </a><br/><br/>
           <img src="https://img.shields.io/badge/App-34C759?style=flat-square" />&nbsp;
           <a href="[https://play.google.com/store/apps/details?id=com.rainypoint.alarm"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>&nbsp;
-          <img src="https://img.shields.io/badge/누적%20다운로드-106-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+          <img src="https://img.shields.io/badge/누적%20다운로드-113-9e9e9e?style=flat-square&labelColor=9e9e9e" />
         </td>
       </tr>
     </table>
