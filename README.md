@@ -10,7 +10,7 @@
 
 <h3> <img src="https://github.com/user-attachments/assets/4c197418-5689-430d-a90c-e383f5bab639" width="24" height="24" valign="middle" /> <a href="https://www.mytop9books.com">My Top 9 Books</a> </h3>
 
-<img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-5.7만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+<img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-7.1만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
 
 도서 취향 공유 커뮤니티
 
@@ -21,7 +21,7 @@
 
 <br/> <h3> <img src="https://github.com/user-attachments/assets/f88a0640-cefe-46b3-be72-a0935c83b10b" width="24" height="24" valign="middle" /> <a href="https://www.novel-calendar.com">웹소설 캘린더</a> </h3>
 
-<img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-6.4만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+<img src="https://img.shields.io/badge/Web-4A90D9?style=flat-square" /> &nbsp;<img src="https://img.shields.io/badge/누적%20이용자-9.3만-9e9e9e?style=flat-square&labelColor=9e9e9e" />
 
 웹소설 신작 캘린더 및 할인율 아카이빙 제공
 
@@ -30,7 +30,7 @@
 
 <br/> <h3> <img src="https://github.com/user-attachments/assets/0792f466-5875-44d0-bb1f-6299aa7f240d" width="24" height="24" valign="middle" /> <a href="https://play.google.com/store/apps/details?id=com.heereal.bracesdiary">교정일기</a> </h3>
 
-<img src="https://img.shields.io/badge/App-34C759?style=flat-square" />  <a href="https://play.google.com/store/apps/details?id=com.heereal.bracesdiary"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>  <img src="https://img.shields.io/badge/누적%20다운로드-496-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+<img src="https://img.shields.io/badge/App-34C759?style=flat-square" />  <a href="https://play.google.com/store/apps/details?id=com.heereal.bracesdiary"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>  <img src="https://img.shields.io/badge/누적%20다운로드-545-9e9e9e?style=flat-square&labelColor=9e9e9e" />
 
 치아교정 일정과 사진 관리를 한 번에
 
@@ -39,7 +39,7 @@
 
 <br/> <h3> <img src="https://github.com/user-attachments/assets/4664255d-e473-44d9-93cc-a6ac49a75443" width="24" height="24" valign="middle" /> <a href="https://play.google.com/store/apps/details?id=com.rainypoint.alarm">비포알리미</a> </h3>
 
-<img src="https://img.shields.io/badge/App-34C759?style=flat-square" />  <a href="https://play.google.com/store/apps/details?id=com.rainypoint.alarm"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>  <img src="https://img.shields.io/badge/누적%20다운로드-113-9e9e9e?style=flat-square&labelColor=9e9e9e" />
+<img src="https://img.shields.io/badge/App-34C759?style=flat-square" />  <a href="https://play.google.com/store/apps/details?id=com.rainypoint.alarm"><img src="https://img.shields.io/badge/GooglePlay-414141?style=flat-square&logo=google-play&logoColor=white" /></a>  <img src="https://img.shields.io/badge/누적%20다운로드-166-9e9e9e?style=flat-square&labelColor=9e9e9e" />
 
 리디 비포인트 알림 자동 전송
 
